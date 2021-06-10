@@ -1,4 +1,4 @@
-# Master-Thesis-Zero-Shot-Learning-using-Generative-Adversarial-Networks
+# Master Thesis: Zero-Shot Learning using Generative Adversarial Networks
 My master thesis on zero-shot learning that I did in the Computer Vision Group at the University of Bern
 
 [You can download the thesis paper from here](https://drive.google.com/file/d/1n9c-BGRVZ8-Be7sY3TmqPss9MVPELIxM/view?usp=sharing)
