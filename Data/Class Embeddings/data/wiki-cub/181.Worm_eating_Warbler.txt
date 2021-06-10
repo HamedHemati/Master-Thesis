@@ -1,0 +1,47 @@
+0 the worm-eating warbler (helmitheros vermivorum) is a small new world warbler that breeds in the eastern united states and migrates to southern mexico and central america for the winter .
+1 the worm-eating warbler is the only species currently classified in the genus helmitheros .
+2  however , swainson's warbler has previously been in this genus as h .
+3  swainsonii .
+4 the worm-eating warbler is a small new world warbler .
+5  it is 13 cm long and weighs 13 g .
+6  it is relatively plain with olive-brown upperparts and light-coloured underparts , but has black and light brown stripes on its head .
+7  it has a slim pointed bill and pink legs .
+8  in immature birds , the head stripes are brownish .
+9  the male's song is a short high-pitched trill .
+10  this bird's call is a chip or tseet .
+11  worm-eating warblers are sexually monomorphic .
+12  males and females can only reliably be sexed during the breeding season by the presence of a brood patch in females or a cloacal protuberance in males .
+13  these birds are also difficult to age .
+14  hatch year/second year birds have rusty tips on tertials that wear off by march of the following year .
+15  juveniles can be distinguished by duskier head markings , and cinnamon wingbars .
+16 this bird breeds in dense deciduous forests in the eastern united states , usually on wooded slopes .
+17  the nest is an open cup placed on the ground , hidden among dead leaves .
+18  it is one of five species of new-world warblers that nests on the ground including the black-and-white warbler (mniotilta varia), the ovenbird (seiurus aurocapilla), the northern waterthrush (parkesia noveboracensis), louisiana waterthrush (parkesia motacilla), and the kentucky warbler (geothlypis formosa) .
+19  the female lays four or five eggs .
+20  both parents feed the young; they may try to distract predators near the nest by pretending to be injured .
+21  worm-eating warblers are often parasitized by brown-headed cowbirds (molothrus ater) where forest fragmentation occurs .
+22  reducing forest fragmentation may prove vital if populations of worm-eating warblers suffer large declines .
+23 these birds breed in the eastern united states .
+24  their selected habitats vary significantly between populations .
+25  in much of their range , worm-eating warblers are associated with mature hardwood forests on steep slopes .
+26  however , recent attention has been focused on coastal breeding populations , as little is known about their ecology or status .
+27  historically , coastal populations would select for pocosin ecosystems .
+28  more recently , however , these populations have shifted to frequent use of pine plantations .
+29  current use of pine plantations has resulted in densities higher than in areas previously thought to be their natural habitat .
+30  this shift in habitat selection likely demonstrates that worm-eating warblers are more closely associated with shrub structure than stand age or size .
+31  if this is the case , the landscape changes that occurred on the atlantic coastal plain may have had less of an impact on these birds than previously described .
+32  maintaining this species habitat may require managing for dense shrubby midstory and understory .
+33  due to their reliance on shrub structure for foraging , and ground nesting behavior , frequent fires have a negative impact on this species .
+34  other management strategies that reduce the shrub mid-story , increase herbaceous growth , and decrease canopy cover are likely to have a similar effect .
+35  more information is needed about their breeding habits in coastal regions as these forests are likely to represent different conditions from their inland counterparts .
+36  fat deposits play a key role in allowing for long distance migration in most passerines .
+37  stopover habitat , or areas that allow birds to replenish their fat stores , are also critical .
+38 in winter , these birds migrate to southern mexico , the greater antilles , and central america particularly along the caribbean slope where they occupy both scrub and moist forests .
+39  worm-eating warblers have disappeared from some parts of their range due to habitat loss but their ability to use both scrub and moist forest ecosystems may be beneficial to the long term conservation of this species .
+40 the diet of worm-eating warblers varies across habitat types .
+41   this variation can be attributed to different predator avoidance strategies employed by common prey items .
+42  on their breeding grounds , worm-eating warblers glean mostly from live foliage , searching for arthropods .
+43  on the wintering grounds , this species gleans insects almost exclusively from dead plant material .
+44  the name "worm-eating" refers to the numerous lepidopteran larvae that this species consumes; they rarely if ever eat earthworms .
+45 use of pesticides , especially those broadcast over a wide area , is likely to have an effect on most insectivorous songbird species , including the worm-eating warbler .
+46  these pesticides decrease the species' primary food source and could result in long-term toxicity .

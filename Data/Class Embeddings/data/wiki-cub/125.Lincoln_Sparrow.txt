@@ -1,0 +1,13 @@
+0 the lincoln's sparrow , melospiza lincolnii , is a medium-sized sparrow .
+1 adults have dark-streaked olive-brown upperparts with a light brown breast with fine streaks , a white belly , and a white throat .
+2  they have a brown cap with a grey stripe in the middle , olive-brown wings , and a narrow tail .
+3  their face is grey with brown cheeks , a brown line through the eye , and an eye ring .
+4  they are somewhat similar in appearance to the song sparrow .
+5 their breeding habitat is wet thickets or shrubby bogs across canada , alaska , and the northeastern and western united states; this bird is less common in the eastern parts of its range .
+6  the nest is a well-concealed shallow open cup on the ground under vegetation .
+7 these birds migrate to the southern united states , mexico , and northern central america; they are passage migrants over much of the united states , except in the west .
+8 they forage on the ground in dense vegetation , mainly eating insects and seeds .
+9 they are very secretive .
+10  their song is a musical trill , but this bird is often not seen or heard even where they are common .
+11 this bird was named by audubon after his friend , thomas lincoln , of dennysville , maine .
+12   lincoln shot the bird on a trip with audubon to nova scotia in 1834, and audubon named it "tom's finch" in his honor .

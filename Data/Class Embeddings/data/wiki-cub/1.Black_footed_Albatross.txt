@@ -1,0 +1,55 @@
+0 the black-footed albatross , phoebastria nigripes , is a large seabird from the north pacific of the albatross family diomedeidae .
+1  it is one of three species of albatross that range in the northern hemisphere , nesting on isolated tropical islands .
+2  unlike many albatrosses , it is dark plumaged .
+3 black-footed albatrosses are a type of albatross that belong to diomedeidae family and come from the procellariiformes order , along with shearwaters , fulmars , storm-petrels , and diving-petrels .
+4  they share certain identifying features .
+5  first , they have nasal passages that attach to the upper bill called naricorns .
+6  although the nostrils on the albatross are on the sides of the bill .
+7  the bills of procellariiformes are also unique in that they are split into between 7 and 9 horny plates .
+8  finally , they produce a stomach oil made up of wax esters and triglycerides that is stored in the proventriculus .
+9  this is used against predators as well as an energy rich food source for chicks and for the adults during their long flights .
+10  they also have a salt gland that is situated above the nasal passage and helps desalinate their bodies , due to the high amount of ocean water that they imbibe .
+11  it excretes a high saline solution from their nose .
+12 the specific epithet of nigripes is derived from two latin words , niger means black , and pes means foot .
+13 the black-footed albatross is a small member of the family (while still large compared to most other seabirds) that has almost all black plumage .
+14  some adults show white undertail coverts , and all adults have white markings around the base of the beak and below the eye .
+15  as the birds age they acquire more white at the base of the beak .
+16  its beak and feet are also all dark .
+17  they have only the one plumage .
+18  they measure {convert|71|to(-)|91|cm|in|abbr=on} in length , have a wingspan of {convert|190|to(-)|220|cm|ft|abbr=on}, and weigh {convert|2.6|-|4.3|kg|lb|abbr=on} .
+19  .
+20  males , at an average weight of {convert|3.4|kg|lb|abbr=on} are larger than females , at an average of {convert|3|kg|lb|abbr=on} .
+21 the black-footed albatross , along with the laysan albatross and the rare short-tailed albatross , are the three species of albatross that range in the northern hemisphere , as opposed to the rest of the family which range from the equator south .
+22  there are at least 12 known breeding locations .
+23  they nest colonially on isolated islands of the northwestern hawaiian islands , from kure atoll to kaula island , (such as laysan , midway , and the french frigate shoals), the japanese islands of tori shima , bonin , and senkaku , and off the mexican coast , primarily on isla guadalupe .
+24  they are extirpated from the iwo jima , agrihan , taongi atoll , marcus island , wake island , and johnston island .
+25  their range at sea varies during the seasons (straying farther from the breeding islands when the chicks are older or they don't have chicks) but they make use of great areas of the north pacific , feeding from alaska to california and japan; however they do prefer the northeastern pacific ocean .
+26  they overlap greatly in breeding and feeding range with the other two species of northern albatross , although the other two will range further north into the bering sea than the black-footed will .
+27  they have , on occasion , been sighted in the southern hemisphere .
+28 their vocalization will range from shrieks and squeals whilst fighting over food to bill-clapping , whistles , groans , and quacks while courting .
+29 the black-footed albatross , like the rest of its family , forms long term pair-bonds that last for life .
+30  after fledging the birds return to the colony after three years , and spend two years building nests , dancing and being with prospective mates , a behaviour that probably evolved to ensure maximum trust between the birds (raising an albatross chick is a massive energetic investment , and a long courting period establishes for both birds that the other is committed) .
+31  they will start reproducing after about seven years .
+32 nests are simple depressions scraped in the sand , into which one dull white with reddish brown spots egg is laid .
+33  the egg is incubated for just over two months (65 days) .
+34  both birds incubate the egg , the male incubating more as the female leaves soon after hatching to recoup reserves used for egg-laying .
+35  the average time spent on incubating shifts is 18 days .
+36  however , mates can wait up to 38 days to be relieved , and if something happens to the mate the other has been recorded incubating for 49 days without food or water .
+37 the chick is brooded for 20 days by its parents , after which both parents leave the nest and return to feed the chick .
+38  the chick is fed regurgitated food by sticking its bill inside that of its parent .
+39  fledging occurs after 140 days .
+40 the black-footed albatross feeds in pelagic waters , taking fish , mostly the eggs of flying fish , squid and to a lesser extent crustaceans .
+41  it will also consume floating debris , including plastics .
+42  it has been described as a 'floating pig' by one author for its habit of taking kitchen scraps from ships .
+43 {weasel-inline|date=march 2009}the black-footed albatross is considered endangered by the iucn , because it is taken incidentally by longline fishing .
+44  an estimated 4,000 are taken every year , based on the number taken in 1990; other estimates put the number at 8,000, although more recent numbers are at around 6,150 per year with the majority of deaths from taiwanese and japanese fishing fleets .
+45  it is also vulnerable to oil and ingestion of floating plastics , which reduces the space in the stomach available for food to be brought to the chick .
+46  finally volcanic eruptions on torishima continues to be a threat .
+47 the black-footed albatross has an occurrence range of {convert|37600000|km2|sqmi|abbr=on} and a breeding range of {convert|28|km2|sqmi|abbr=on}, with a population of 129,000 adult birds .
+48  of these birds 24,000 pair breed on midway atoll and 21,000 pair breed on laysan island .
+49  torishima has 1,218 pair , the bonin islands have 23 pair and there are about 400 pair on offshore mexican islands with 337 on islas guadalupe .
+50  all of these numbers come from estimates from 2005 to 2007.all of its nesting sites in the u .
+51 s .
+52  are protected , along with a {convert|50|nmi|km|abbr=on} buffer zone around these islands .
+53  within this buffer zone longline fishing is outlawed .
+54  almost 80% of the breeding population is counted or sampled each year and most fisheries utilize seabird bycatch prevention measures .

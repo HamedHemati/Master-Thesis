@@ -1,0 +1,97 @@
+0 the common tern (sterna hirundo) is a seabird of the tern family sternidae .
+1  this bird has a circumpolar distribution , its four subspecies breeding in temperate and subarctic regions of europe , asia and north america .
+2  it is strongly migratory , wintering in coastal tropical and subtropical regions .
+3  breeding adults have light grey upperparts , white to very light grey underparts , a black cap , orange-red legs , and a narrow pointed bill .
+4  depending on the subspecies , the bill may be mostly red with a black tip or all black .
+5  there are a number of similar species , including the partly sympatric arctic tern , which can be separated on plumage details , leg and bill colour , or vocalisations .
+6 breeding in a wider range of habitats than any of its relatives , the common tern nests on any flat , poorly vegetated surface close to water , including beaches and islands , and it readily adapts to artificial substrates such as floating rafts .
+7  the nest may be a bare scrape in sand or gravel , but it is often lined or edged with whatever debris is available .
+8  up to three eggs may be laid , their dull colours and blotchy patterns providing camouflage on the open beach .
+9  incubation is by both sexes , and the eggs hatch in around 2122 days , longer if the colony is disturbed by predators .
+10  the downy chicks fledge in 2228 days .
+11  like most terns , this species feeds by plunge-diving for fish , either in the sea or in freshwater , but molluscs , crustaceans and other invertebrate prey may form a significant part of the diet in some areas .
+12 eggs and young are vulnerable to predation by mammals such as rats and american mink , and large birds including gulls , owls and herons .
+13  common terns may be infected by lice , parasitic worms , and mites , although blood parasites appear to be rare .
+14  its large population and huge breeding range mean that this species is classed as being of least concern , although numbers in north america have declined sharply in recent decades .
+15  despite international legislation protecting the common tern , in some areas populations are threatened by habitat loss , pollution or the disturbance of breeding colonies .
+16 the terns , family sternidae , are small to medium-sized seabirds closely related to the gulls , skimmers and skuas .
+17  they are gull-like in appearance , but typically have a lighter build , long pointed wings (which give them a fast , buoyant flight), a deeply forked tail , slender legs , and webbed feet .
+18  most species are grey above and white below , and have a black cap which is reduced or flecked with white in the non-breeding season .
+19 the common tern's closest relatives appear to be the antarctic tern , followed by the eurasian arctic and roseate terns .
+20  genetic evidence suggests that the common tern may have diverged from an ancestral stock earlier than its relatives .
+21  no fossils are known from north america , and those claimed in europe are of uncertain age and species .
+22 the common tern was first described by linnaeus in his systema naturae in 1758 under its current scientific name , sterna hirundo .
+23  the word "stearn" was used in old english and a similar word was used by the frisians for tern .
+24  "stearn" appears in the poem the seafarer , written around 1000 ad .
+25  linnaeus adopted this word for the genus name sterna .
+26  the latin for swallow is "hirundo" and refers here to the tern's superficial likeness to that unrelated bird , which has a similar light build and long forked tail .
+27  this resemblance also leads to the informal name "sea swallow", recorded from at least the seventeenth century .
+28  the scots names picktarnie , tarrock and their many variants are also believed to be onomatopoeic , derived from the distinctive call .
+29  due to the difficulty in distinguishing the two species , all the informal common names are shared with the arctic tern .
+30 four subspecies of the common tern are generally recognized , although s .
+31  h .
+32  minussensis is sometimes considered to be an intergrade between s .
+33  h .
+34  hirundo and s .
+35  h .
+36  longipennis .
+37 the nominate subspecies of the common tern is 3135 cm (1214 in) long , including a 69 cm (2.43.5 in) fork in the tail , with a 7798 cm (3039 in) wingspan .
+38  it weighs 110141 g (3.95.0 oz) .
+39  breeding adults have pale grey upperparts , very pale grey underparts , a black cap , orange-red legs , and a narrow pointed bill that can be mostly red with a black tip , or all black , depending on the subspecies .
+40  the common tern's upperwings are pale grey , but as the summer wears on , the dark feather shafts of the outer flight feathers become exposed , and a grey wedge appears on the wings .
+41  the rump and tail are white , and on a standing bird the long tail extends no further than the folded wingtips , unlike the arctic and roseate terns in which the tail protrudes beyond the wings .
+42  there are no significant differences between the sexes .
+43  in non-breeding adults the forehead and underparts become white , the bill is all black or black with a red base , and the legs are dark red or black .
+44  the upperwings have an obvious dark area at the front edge of the wing , the carpal bar .
+45  terns that have not bred successfully may start moulting into non-breeding adult plumage from june , but late july is more typical , with the moult suspended during migration .
+46  there is also some geographical variation , californian birds often being in non-breeding plumage during migration .
+47 juvenile common terns have pale grey upperwings with a dark carpal bar .
+48  the crown and nape are brown , and the forehead is ginger , wearing to white by autumn .
+49  the upperparts are ginger with brown and white scaling , and the tail lacks the adult's long outer feathers .
+50  birds in their first post-juvenile plumage , which normally remain in their wintering areas , resemble the non-breeding adult , but have a duskier crown , dark carpal bar , and often very worn plumage .
+51  by their second year , most young terns are either indistinguishable from adults , or show only minor differences such as a darker bill or white forehead .
+52 the common tern is an agile flyer , capable of rapid turns and swoops , hovering , and vertical take-off .
+53  when commuting with fish , it flies close to the surface in a strong head wind , but 1030 m (3398 ft) above the water in a following wind .
+54  unless migrating , normally it stays below 100 m (330 ft), and averages 30 km/h (19 mph) in the absence of a tail wind .
+55  its average flight speed during the nocturnal migration flight is 4354 km/h (2734 mph) at a height of 1,0003,000 m (3,3009,800 ft) .
+56 the juvenile starts moulting into adult plumage in its first october; the head , tail and body plumage is replaced first , mostly by february , then the wing feathers .
+57  the primaries are replaced in stages; the innermost feathers moult first , then replacement is suspended during the southern winter (birds of this age staying in their wintering areas) and recommences in the autumn .
+58  in may to june of the second year a similar moult sequence starts , with a pause during primary moult for birds that return north , but not for those that stay in the winter quarters .
+59  a major moult to adult breeding plumage occurs in the next february to june , between 4090% of feathers being replaced .
+60  old primary feathers wear away to reveal the blackish barbs beneath .
+61  the moult pattern means that the oldest feathers are those nearest the middle of the wing , so as the northern summer progresses , a dark wedge appears on the wing due to this feather ageing process .
+62 terns are unusual in the frequency in which they moult their primaries , which are replaced at least twice , occasionally three times in a year .
+63  the visible difference in feather age is accentuated in the greater ultraviolet reflectance of new primaries , and the freshness of the wing feathers is used by females in mate selection .
+64  experienced females tend to accept mates which best show their fitness through the quality of their wing feathers .
+65  rarely , a very early moult at the nesting colony may be linked to breeding failure , both the onset of moult and reproductive behaviour being linked to falling levels of the hormone prolactin .
+66 there are several terns of a similar size and general appearance to the common tern .
+67  a traditionally difficult species to separate is the arctic tern , and until the key characteristics were clarified , distant or flying birds of the two species were often jointly recorded as "commic terns" .
+68  although similar in size , the two terns differ in structure and flight .
+69  the common tern has a larger head , thicker neck , longer legs , and more triangular and stiffer wings than its relative , and has a more powerful , direct flight .
+70  the arctic tern has greyer underparts than the common , which make its white cheeks more obvious , whereas the rump of the common tern can be greyish in non-breeding plumage , compared to the white of its relative .
+71  the common tern develops a dark wedge on the wings as the breeding season progresses , but the wings of arctic stay white throughout the northern summer .
+72  all the flight feathers of the arctic tern are translucent against a bright sky , only the four innermost wing feathers of the common tern share this property .
+73  the trailing edge of the outer flight feathers is a thin black line in the arctic tern , but thicker and less defined in the common .
+74  the bill of an adult common tern is orange-red with a black tip , except in black-billed s .
+75  h .
+76  longipennis , and its legs are bright red , while both features are a darker red colour in the arctic tern , which also lacks the black bill tip .
+77 in the breeding areas , the roseate tern can be distinguished by its pale plumage , long , mainly black bill and very long tail feathers .
+78  the non-breeding plumage of roseate is pale above and white , sometimes pink-tinged , below .
+79  it retains the long tail streamers , and has a black bill .
+80  in flight , the roseate's heavier head and neck , long bill and faster , stiffer wingbeats are also characteristic .
+81  it feeds further out to sea than the common tern .
+82  in north america , the forster's tern in breeding plumage is obviously larger than the common , with relatively short wings , a heavy head and thick bill , and long , strong legs; in all non-breeding plumages , its white head and dark eye patch make the american species unmistakable .
+83 in the wintering regions , there are also confusion species , including the antarctic tern of the southern oceans , the south american tern , the australasian white-fronted tern and the white-cheeked tern of the indian ocean .
+84  identification may be aided by the plumage differences due to "opposite" breeding seasons .
+85  the antarctic tern is more sturdy than the common , with a heavier bill .
+86  in breeding condition , its dusky underparts and full black cap outline a white cheek stripe .
+87  in non-breeding plumages , it lacks , or has only an indistinct , carpal bar , and young birds show dark bars on the tertials , obvious on the closed wing and in flight .
+88  the south american tern is larger than the common , with a larger , more curved red bill , and has a smoother , more extensive black cap in non-breeding plumage .
+89  like antarctic , it lacks a strong carpal bar in non-breeding plumages , and it also shares the distinctive barring of the tertials in young birds .
+90  the white-fronted tern has a white forehead in breeding plumage , a heavier bill , and in non-breeding plumage is paler below than the common , with white underwings .
+91  the white-cheeked tern is smaller , has uniform grey upperparts , and in breeding pumage is darker above with whiter cheeks .
+92 juvenile common terns are easily separated from similar-aged birds of related species .
+93  they show extensive ginger colouration to the back , and have a pale base to the bill .
+94  young arctic terns have a grey back and black bill , and juvenile roseate terns have a distinctive scalloped "saddle" .
+95  hybrids between common and roseate terns have been recorded , particularly from the us , and the intermediate plumage and calls shown by these birds is a potential identification pitfall .
+96  such birds may have more extensive black on the bill , but confirmation of mixed breeding may depend on the exact details of individual flight feathers .

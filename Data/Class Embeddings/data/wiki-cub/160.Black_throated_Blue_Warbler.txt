@@ -1,0 +1,110 @@
+0 the black-throated blue warbler (setophaga caerulescens) is a small passerine bird of the new world warbler family .
+1  its breeding ranges are located in the interior of deciduous and mixed coniferous forests in eastern north america .
+2  over the cooler months , it migrates to islands in the caribbean and central america .
+3  it is a very rarely found in western europe , where it is considered to be a non-indigenous species .
+4  the black-throated blue warbler is sexually dimorphic; the adult male has a black face and cheeks , deep blue upperparts and white underparts , while the adult female is olive-brown above and light yellow below .
+5 predominantly insectivorous , the black-throated blue warbler supplements its diet with berries and seeds in winter .
+6  it builds its nests in thick shrubs and the closeness of its nesting sites to the ground make it a favored species for the study of warbler behavior in the wild .
+7  the black-throated blue warbler defends its territory against other birds of the same species for both nesting and winter habitats .
+8  as the black-throated blue warbler requires large , unbroken forest areas for nesting , its numbers are declining .
+9 the german naturalist johann friedrich gmelin described the black-throated blue warbler in 1789. its species name is the latin adjective caerulescens meaning "turning blue" .
+10 the black-throated blue warbler is one of the new world warblers or wood-warblers in the family parulidae .
+11  this species was originally placed under the genus dendroica .
+12  it was recently adjusted to be a member of genus setophaga along with all other members of the genus dendroica , based on the findings from a recent phylogenetic analysis of mitochondrial dna and nuclear dna in 2010. the old genus dendroica was then deleted .
+13  within the genus , it appears to have no particularly close relatives .
+14 the species breeds in north america and winters in the caribbean .
+15  some studies have observed significant differences in terms of migratory behavior and plumage color between northern and southern populations within the breeding range .
+16  the northern population mainly winters in the western caribbean (cuba and jamaica) while the southern population usually spends the winter on eastern islands (hispaniola and puerto rico) .
+17  moreover , males in the southern population have darker plumage than those in the northern population .
+18  these differences have led biologists to consider them as separate subspecies .
+19  however , a recent study in the united states reveals no significant genetic differentiation between northern (samples from michigan , new hampshire and new york states) and southern populations (sample from north carolina) .
+20  the study results actually show a recent population expansion from a single glacial refugium , therefore the current populations are homogeneous in terms of genetics .
+21  the differentiation that is observed between the northern and southern populations should have occurred quite recently .
+22 the black-throated blue warbler measures 13 cm (5.1 in) in length and weighs 8.412.4 g (0.300.44 oz) .
+23  the adult male has white underparts with a black throat , face and flanks .
+24  the upperparts are deep blue .
+25  the immature male is similar , but with greener upperparts .
+26  the female has olive-brown upperparts and light yellow underparts with darker wings and tail , gray crown and brown patches on the cheek .
+27  both sexes have a thin pointed bill and small white wing patches which are not always visible .
+28  like many other warbler species , it has colorful plumage during the spring and summer .
+29  however , outside the breeding season its plumage is drab and less distinctive .
+30  in the fall , the black-throated blue warbler can be distinguished by its small white wing patches .
+31  juveniles have brown upperparts with a creamy supercilium and brownish spots on the throat , the breast and the belly .
+32 the bird's song can be described as a buzzed zee-zee-zeeee with an upward inflection .
+33  its call is a flat ctuk .
+34 the black-throated blue warbler is a migratory species .
+35  it breeds in temperate mature deciduous forests or mixed coniferous-deciduous forest with a thick understory .
+36  the species is often found in hilly and mountainous regions in the northeastern united states and southeastern canada .
+37  in late summer , it migrates to the tropical wooded and scrub habitats in the greater antilles for wintering .
+38  along the migration route , the black-throated blue warbler can be observed in habitats such as parks and gardens .
+39  its nesting site is more important than its foraging site in playing a role in determining the habitat of the black-throated blue warbler .
+40  the black-throated blue warbler is an open-nesting species , that nests very close to the ground so it has to choose a protected nesting site where the risk of predation is relatively low .
+41 the black-throated blue warbler forages actively in low vegetation , sometimes hovering or catching insects in flight .
+42  it often forages in one area for a while before moving on to the next .
+43  it mainly eats invertebrates such as caterpillars , crane flies , and spiders .
+44  it may supplement its diet with seeds , berries , and fruit in the winter .
+45 males and females prefer different foraging sites .
+46  while males usually hover among the higher shrub foliage between 3 and 9 m (9.8 and 29.5 ft), females tend to forage at lower strata .
+47  the time within a breeding season influences where the males forage .
+48  when it is time to feed the fledglings , males come down to the same foraging strata as females .
+49  the black-throated blue warbler mostly forages in the understory instead of the canopy .
+50  the large leaves and long branches in the understory affect its foraging behaviors .
+51  the black-throated blue warbler more often hovers rather than gleans its prey because it is more difficult to glean among thick understory foliage .
+52 the black-throated blue warbler is a monogamous species .
+53  its breeding season usually begins in may and ends in july .
+54  as a songbird , the male black-throated blue warbler attracts a females attention by singing a soft melody .
+55  he then follows the female while she is foraging or searching for nesting sites .
+56  as soon as the female stops to rest , the male droops his wings slightly , stretches his head forward and up , opens his bill , and faces the female .
+57  the female also makes displays to the male by vibrating her wings .
+58  in response , the male mounts the female for 23 seconds and then flies off .
+59 a 1996, researchers showed that the black-throated blue warbler prefers to reside in hardwood forests with higher shrub densities where food is more abundant compared to lower shrub density plots .
+60  within these high shrub density habitats , not only is there a higher density of warblers , but the population age average is also older , being composed of males and females who are at least two years of age .
+61 the black-throated blue warbler uses social cues in its evaluation and choice of nesting sites .
+62  in particular , it listens to the post-breeding songs given out by other males .
+63  these songs have strong temporal dependencies .
+64  males sing at the beginning and the peak of breeding season , but songs are not indicative of reproductive success .
+65  near the end of a breeding season , a male that has successfully mated continues to sing while a male that has failed to reproduce abandons the habitat .
+66  therefore , post-breeding songs are reliable indicators of reproductive success within the particular habitat and convey essential information to the natal and breeding dispersers .
+67  in comparison to the traditional idea of direct assessment of the vegetation structure , the vocal cue is much more efficient and easier to obtain , hence revealing the advantage of social communication in survival and reproduction .
+68  a female , however , does not respond to post-breeding songs directly .
+69  instead , she is likely to rely on the presence of males in deciding nesting sites .
+70 although the black-throated blue warbler is a socially monogamous species , males are frequently observed in territories of other males , suggesting the occurrence of extra-pair matings .
+71  nestling parentage is identified by microsatellites in a study plot at the hubbard brook experimental forest in new hampshire .
+72  the results show that extra-pair fertilization occurs and that the majority of the extra-pair sires come from males in neighboring territories .
+73  only very few extra-pair sires are from distant territories .
+74  this local reproductive interaction is also supported by another study conducted earlier , which finds that extra pair fertilizations are strongly and positively correlated with local synchrony but there is no significant association with population level synchrony .
+75 males engage in mate guarding during the period females are most vulnerable to successful extra pair copulations .
+76  they usually stay close to their social mate , singing slowly on the side and following the mate while she is foraging or searching for a nesting site .
+77  the guarding behavior , though , may conflict with males pursuit of extra-pair fertilizations .
+78  it is not yet clear to what extent a male will prefer mate guarding over extra-pair fertilizations .
+79  male retention studies have shown that removal of a male increases the chance of extra-pair offspring in the brood , suggesting that mate guarding reduces extra-pair fertilization attempts .
+80  the extra-pair fertilization rate nonetheless cannot be eliminated even if males are allowed to stay near their social mates during fertility risk period .
+81  several hypotheses try to explain this phenomenon: females may be able to manage extra-pair mating even while its social mate is guarding it , or females may reject extra-pair copulation attempts by other males in the absence of male guarding .
+82 females who participate in extra-pair fertilizations may incorporate better genes in their offspring than they could get with their social mate , but they are likely to receive less help with parental care from their social mates because of cheating .
+83  extra-pair fertilization , therefore , can be costly to females as well .
+84  a possible theory why extra-pair fertilization occurs is that female organisms select males with overall high heterozygosity or dissimilar genetics from themselves .
+85  a microsatellite study suggests an alternative to heterozygosity selection .
+86  because no correlation is found between female extra-pair fertilization frequencies and the overall heterozygosity of their social mates , it is suggested that females may choose only a selective set of heterozygous genes , particularly the mhc locus , which can affect the immunocompetence of offspring .
+87 males differential recognition of local and nonlocal songs has been studied in two populations: one in the northern united states (new hampshire) and the other in the southern united states (north carolina) .
+88  an asymmetry of response has been found between the two populations .
+89  the northern black-throated blue warbler responds strongly to local songs but relatively weakly to the song of southern warblers .
+90  in contrast , a warbler from the south responds equally to songs from both the north and the south .
+91  a potential explanation of this asymmetry is the difference in female preference between the northern and southern black-throated blue warblers .
+92  females from the north are less likely to mate with a heterospecific male from the south; therefore it is not necessary for a northern male to respond strongly to the song of a southern challenger .
+93  it is possible that a barrier to gene flow from south to north exists while a barrier to the reverse does not .
+94  therefore , female choice of male songs is likely to play a role in gene flow and reproductive isolation , which may eventually lead to diversification .
+95 it has long been believed that a male black-throated blue warbler achieves reproductive maturation well into its first breeding season .
+96  a yearling participates in extra-pair mating and cuckoldry as much as or even more than older males .
+97  however , research by graves has found opposing evidence in terms of testicular size and sperm production .
+98  directional asymmetry is present in many passerine birds .
+99  the left testicle is often larger in size than the right one , and this holds true for both yearling and older male warblers .
+100  however , the testicle to body mass ratio nonetheless is much lower in yearlings than in older males .
+101  moreover , older males have a greater degree of directional asymmetry than do yearlings .
+102  because the size of testes in birds is correlated to the ejaculate quality , it is likely that females employ age-dependent choice in favor of older males who can be distinguished by their definitive age-specific plumage .
+103 the black-throated blue warbler enjoys a large range and a big population .
+104  its population trend is currently increasing .
+105  this species was ranked as least concern by the iucn in 2012. deforestation and habitat fragmentation are threatening the black-throated blue warbler in its tropical wintering areas .
+106  a report in 2000 discussed the impact of global climate change on the population dynamics of the black-throated blue warbler by an observation from 1986 to 1998. in particular , the effect of el nio southern oscillation (enso) was studied in relation to the survival , fecundity and recruitment of this migratory bird .
+107  it was found that el nio years (the warm south pacific oceanic phase) were associated with lower adult survival rate in their wintering ground , jamaica , lower fecundity in the breeding habitats in new hampshire of the united states , and lower annual recruitment of yearlings and juveniles to both breeding and wintering grounds .
+108  all the three factors were relatively higher during la nia years (cold south pacific ocean) when the weather was wetter and the food availability was much more abundant .
+109  long-term global warming can aggravate the enso effect , adding to the fluctuation of the black-throated blue warbler population .

@@ -1,0 +1,58 @@
+0 the  american redstart (setophaga ruticilla) is a new world warbler .
+1  it is the only member of its genus and is unrelated to the old world redstarts .
+2  it derives its name from the male's red tail , start being an old word for tail .
+3 the american redstart is a smallish warbler .
+4  it measures 11 to 14 cm (4.3 to 5.5 in) in total length and has a wingspan of 16 to 23 cm (6.3 to 9.1 in) .
+5  its length is boosted by a relatively long tail and it is one of the lightest birds in its family .
+6  weight is considerably less in winter than in summer .
+7  males weigh an average of 8.6 g (0.30 oz) in summer but drop to 7.2 g (0.25 oz) in winter , while females drop even more from an average of 8.7 g (0.31 oz) to an average of 6.9 g (0.24 oz) .
+8  among standard measurements , the wing chord is 5.5 to 6.9 cm (2.2 to 2.7 in), the tail is 4.9 to 5.8 cm (1.9 to 2.3 in), the bill is 0.7 to 0.9 cm (0.28 to 0.35 in) and the tarsus is 1.5 to 1.9 cm (0.59 to 0.75 in) .
+9  the breeding males are unmistakable , jet black above apart from large orange-red patches on their wings and tails .
+10  their breast sides are also orange , with the rest of their underparts colored white .
+11  in their other plumages , american redstarts display green in their upperparts , along with black central tails and grey heads .
+12  the orange patches of the breeding males are replaced by yellow in the plumages of the females and young birds .
+13  orange and yellow coloration is due to the presence of carotenoids; males possess the red carotenoid canthaxanthin and the yellow carotenoids canary xanthophyll a and b , all of which mix together to produce an orange color , while the females possess only the yellow carotenoids .
+14  recent research indicates that an age and sex effect on observed color attributes of hue , brightness , and saturation exists in american redstarts , with the exception for saturation , which only showed an age effect .
+15  their song is a series of musical see notes .
+16  their call is a soft chip .
+17 although perhaps not as common as in the past , this appears to be one of the most stable and abundant species of new world warbler , its numbers exceeded in total by the common yellowthroat , yellow warbler and yellow-rumped warbler , because of much wider natural breeding ranges in those species and perhaps exceeding those in sheer density within appropriate range .
+18  they breed in north america , across southern canada and the eastern united states .
+19  these birds are migratory , wintering in central america , the west indies , and northern south america (in venezuela they are called "candelitas") .
+20  they are very rare vagrants to western europe .
+21  during the breeding season , this warbler inhabits open-canopy , mostly deciduous forests , second growth , and forest edge across much of the united states and southern canada .
+22  this insectivorous bird often shares its foraging habitats with other warblers , and is found feeding in the mid to lower regions of a tree or shrub .
+23  a wide range of habitats are occupied during migration , including many shrubby areas .
+24  on their wintering grounds in central and south america , this warbler may be found in nearly all woody habitats but tend to avoid non-forested agricultural areas .
+25  it is often found in shade-grown coffee plantations which provide native trees and shrubs , as well as coffee trees .
+26  elevations occupied vary by location , as this species may be found at elevations up to 3,000 m (9,800 ft) in south america , but only up to 1,500 m (4,900 ft) in jamaica .
+27 the breeding habitats of the redstarts are open woodlands or scrub , often located near water .
+28  they nest in the lower part of a bush , laying 25 eggs in a neat cup-shaped nest .
+29  the clutch is incubated by the female for 10 to 13 days .
+30  the young fledge after 9 days in the nest , and may remain with one parent for up to 3 weeks after fledging .
+31  first-year males are able to reproduce during their first breeding season , but they retain the female-like plumage which may contribute to low reproductive success (less than 50% of first-year males) until year 2. in contrast , most first-year females successfully reproduce during their first breeding season .
+32  there is evidence for a skewed sex ratio that results in a surplus of unmated males .
+33 american redstarts display a mixed mating strategy; they are predominantly monogamous but around 25% of males maintain multiple territories and are polygynous .
+34  even within monogamous pairs , a high proportion of offspringas many as 40%are not fathered by the male of the pair .
+35  the intensity of the male's coloration (which is due to carotenoid pigments) predicts their success at holding territory in their non-breeding , winter locations in the caribbean , the probability that they will be polygynous , and the proportion of offspring in their nests that they will themselves father .
+36  males are invariably very territorial and the superior males occupy the best habitats , such as moist mangroves , while inferior males occupy secondary habitats such as dry scrub forests .
+37 the redstarts feed almost exclusive on insects which are usually caught by flycatching .
+38  american redstarts also have been known to catch their insect prey by gleaning it from leaves .
+39  this is a very active species .
+40  the tail is often held partly fanned out .
+41  these birds have been observed flashing the orange and yellow of their tails , on and off , to startle and chase insects from the underbrush .
+42  overall , this species is a very flexible , opportunistic feeder that can easily adapt to varying habitat , season , insect community , vegetation structure , and time of day .
+43  the diet consists largely of caterpillars , moths , flies , leafhoppers and planthoppers , small wasps , beetles , aphids , stoneflies and spiders .
+44  few berries and seeds are consumed , but are most often from barberry , serviceberry , and magnolia .
+45 the oldest known redstart to be banded was over 10 years of age .
+46  other adults have been known to live up to around 5 years of age .
+47  however , few survive past the first stages of life .
+48  setophaga ruticilla is vulnerable to both terrestrial and aerial predators .
+49  highest rates of predation occur during the breeding season when eggs and helpless nestlings are abundant and easy prey for varied predators .
+50  females mostly brood during this period and thus often fall prey to nest predators .
+51  common terrestrial predators include red squirrels , fishers , eastern chipmunks , american black bears , flying squirrels , fox snakes , and domestic cats .
+52  aerial predators take nestlings , eggs , or even adults in flight .
+53  possible aerial predators include jaegers , blue jays , common ravens , northern saw-whet owls , common grackles , northern goshawks , and sharp-shinned hawks , and cooper's hawks .
+54 successful conservation efforts of the redstart , like any other migrating bird , include protecting and providing habitat throughout its entire range .
+55  the benefits to coffee farms that redstarts and other "coffee birds" provide have encouraged coffee farmers to adapt shade trees and adjacent forest patches in their farming practices as additional habitat for the birds .
+56  while shade tree coffee farms offer a somewhat practical compromise between habitat preservation and agriculture , there is still not enough data to back the notion that practices like shade tree coffee farms can replace the natural habitat that was once there .
+57  still , the most effective method for american redstart conservation would be natural habitat preservation at wintering and breeding grounds .

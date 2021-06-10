@@ -1,0 +1,24 @@
+0 the prairie warbler (setophaga discolor) is a small songbird of the new world warbler family .
+1 these birds have yellow underparts with dark streaks on the flanks , and olive upperparts with rusty streaks on the back; they have a yellow line above the eye , a dark line through it , and a yellow spot below it .
+2  these birds have black legs , long tails , two pale wing bars , and thin pointed bills .
+3  coloring is duller in female and immatures .
+4 their breeding habitats are brushy areas and forest edges in eastern north america .
+5  the prairie warbler's nests are open cups , which are usually placed in a low area of a tree or shrub .
+6  incubation period is 12 to 13 days .
+7 these birds are permanent residents in the southern parts of their range .
+8  other birds migrate to northeastern mexico and islands in the caribbean .
+9 prairie warblers forage actively on tree branches , and sometimes fly around with the purpose of catching insects , which are the main food source of these birds .
+10 prairie warblers have two categories of songs , referred to as type a and type b .
+11  type a songs are typically a series of ascending buzzy notes .
+12  the b songs are an ascending series of whistled notes that often contain some buzzy notes .
+13  compared to a songs , the b songs are lower in pitch , have fewer , longer notes .
+14  the total song length is longer as well in type b songs .
+15  the use of these two song categories is associated with certain contexts .
+16  a songs are sung throughout the day when males first arrive on their breeding grounds .
+17  once males are paired they begin to sing b songs during the dawn chorus and then will intersperse a songs in their singing during the rest of the day .
+18  during this later period of singing a songs are typically used near females , near the nest , and in the center of their territories .
+19  in contrast b songs are used when interacting or fighting with other males and near the borders of their territories .
+20 part of their call note repertoire is a tsip call .
+21  during dawn , chorus b songs are interspersed with rapid loud "check" calls .
+22 these birds wag their tails frequently .
+23 the numbers of these birds are declining due to habitat loss; this species also suffers from nest parasitism by the brown-headed cowbird .

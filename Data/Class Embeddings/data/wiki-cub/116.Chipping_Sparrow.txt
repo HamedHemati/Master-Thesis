@@ -1,0 +1,58 @@
+0 the chipping sparrow (spizella passerina) is a species of american sparrow , a passerine bird in the family emberizidae .
+1  it is widespread , fairly tame , and common across most of its north american range .
+2  there are two subspecies , the eastern chipping sparrow and the western chipping sparrow .
+3  this bird is a partial migrant with northerly populations flying southwards in the fall to overwinter in mexico and the southern united states , and flying northward again in spring .
+4  it molts twice a year .
+5  in its breeding plumage it has orangish-rust upper parts , gray head and underparts and a distinctive reddish cap .
+6  in non-breeding plumage , the cap is brown and the facial markings are less distinct .
+7  the song is a trill and the bird has a piercing flight call that can be heard while it is migrating at night .
+8 in the winter , chipping sparrows are gregarious and form flocks , sometimes associating with other bird species .
+9  they mostly forage on the ground for seeds and other food items , as well as clambering on plants and trees , feeding on buds and small arthropods .
+10  in the west of their range they breed mainly in coniferous forests , but in the east , they choose woodland , farmland , parks and gardens .
+11  breeding starts in late april and may and the nest is often built in a tree .
+12 throughout the year , adults are gray below and an orangish-rust color above .
+13  adults in alternate (breeding) plumage have a reddish cap , a nearly white supercilium , and a black trans-ocular line (running through the eye) .
+14  adults in basic (nonbreeding) plumage are less prominently marked , with a brownish cap , a dusky eyebrow , and a dark eye-line .
+15 juvenile chipping sparrows are prominently streaked below .
+16  like non-breeding adults , they show a dark eye-line , extending both in front of and behind the eye .
+17  the brownish cap and dusky eyebrow are variable but generally obscure in juveniles .
+18 the song is a trill that varies considerably among birds within any particular region .
+19  two broad classes of variation in the song of the chipping sparrow are the fast trill and the slow trill .
+20  individual elements in the fast trill are run together about twice as fast as in the slow trill; the fast trill sounds like a buzz or like someone snoring , whereas the slow trill sounds like rapid finger-tapping .
+21  individual elements in the trill are very similar to a high pitch chi chi chi call .
+22 the flight call of the chipping sparrow is heard year-round .
+23  its flight call is piercing and pure-tone , lasting about 50 milliseconds .
+24  it starts out around 9 khz , then falls to 7 khz , then rises again to 9 khz .
+25  the flight call may be transliterated as seen? chipping sparrows migrate by night , and their flight calls are a characteristic sound of the night sky in spring and fall in the united states .
+26  in the southern rockies and eastern great plains , the chipping sparrow appears to be the most common nocturnal migrant , judged by the number of flight calls detected per hour .
+27  on typical nights in august in this region , chipping sparrows may be heard at a rate of 15 flight calls per hour .
+28  on better-than-average nights , chipping sparrows occur at a rate of 60 flight calls per hour , and on exceptional nights chipping sparrows' flight calls are heard more than 200 times per hour .
+29 chipping sparrows vary across their extensive north american range .
+30  there is minor geographic variation in appearance , and there is significant geographic variation in behavior .
+31  ornithologists often divide the chipping sparrow into two major groups: the eastern chipping sparrow and the western chipping sparrow .
+32  however , there is additional plumage and behavioral variation within the western group .
+33 at least two subspecies of chipping sparrows occur in western north america .
+34  the widespread spizella passerina arizonae is associated with mountains and arid habitats of the western interior .
+35  a pacific slope population constitutes subspecies s .
+36  p .
+37  stridula .
+38  although these two races are both western , and are often lumped together as the western chipping sparrow , they do not necessarily form a single entity that stands apart from the eastern chipping sparrow (s .
+39  p .
+40  passerina) .
+41 in eastern north america , chipping sparrows breed in woodlands , farmlands , and suburban and urban districts .
+42  in western north america , the chipping sparrow prefers conifer forests for breeding .
+43  the chipping sparrow is partially migratory , with almost all mid-latitude and high-latitude breeders withdrawing in winter to the southern united states and mexico .
+44  on the wintering grounds and during migration , chipping sparrows are gregarious , forming tight flocks with other chipping sparrows or loose assemblages with other species such as eastern bluebirds and pine warblers .
+45 throughout the year , chipping sparrows forage on the ground , often in loose flocks .
+46  their diet consists mainly of seeds and crumbs of mostly any food , especially those fallen on the ground .
+47  chipping sparrows frequently forage directly from forbs and grasses , too .
+48  at any time of the year , especially , in spring , chipping sparrows may be seen in trees , even up in the canopy , where they forage on fresh buds and glean for arboreal arthropods .
+49 although they are wary , chipping sparrows often allow close approach .
+50  a quiet observer can often get to within 50100 feet of one or more chipping sparrows feeding on the ground .
+51  when spooked , chipping sparrows fly a short distance to the nearest tree or fencerow .
+52 in early spring , the first migrants return from their wintering grounds in march , but the bulk of migrants arrives throughout april .
+53  males set up territories right away , and their trilled songs make them conspicuous .
+54  breeding begins as early as april , but again , most nesting activity occurs from late april to early may onwards .
+55 molt in the chipping sparrow follows the "complex alternate strategy" as usual for american sparrows .
+56  it consequently has two molts per year as adults and three molts in their first year of life , also called their first plumage-cycle .
+57  the chipping sparrow's two adult molts occur in late summer and late winter .

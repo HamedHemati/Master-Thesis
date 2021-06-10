@@ -1,0 +1,66 @@
+0 the indigo bunting , passerina cyanea , is a small seed-eating bird in the family cardinalidae .
+1  it is migratory , ranging from southern canada to northern florida during the breeding season , and from southern florida to northern south america during the winter .
+2  it often migrates by night , using the stars to navigate .
+3  its habitat is farmland , brush areas , and open woodland .
+4  the indigo bunting is closely related to the lazuli bunting , and interbreeds with the latter species where their ranges overlap .
+5 the indigo bunting is a small bird , with a length of 11.513 cm (4.55 in) .
+6  it displays sexual dimorphism in its coloration; the male is a vibrant blue in the summer and a brown color during the winter months , while the female is brown year-round .
+7  the male displays brightly colored plumage during the breeding season to attract a mate .
+8  nest-building and incubation are done solely by the female .
+9   the diet of the indigo bunting consists primarily of insects during the summer months and seeds during the winter months .
+10 the indigo bunting is included in the family cardinalidae , which is made up of passerine birds found in north and south america , and is one of seven birds in the genus passerina .
+11  it was originally described as loxia cyanea by linnaeus in his 18th-century work , systema naturae .
+12  the current genus name , passerina , is derived from the latin term passer for true sparrows and similar small birds , while the species name , cyanea , is from the latin word meaning dark or sea blue .
+13  the indigo bunting is closely related to the lazuli bunting , and interbreeds with the latter species where their ranges overlap , in the great plains .
+14  they were declared to form a superspecies by the american ornithologists' union in 1983. however , according to sequencing of the mitochondrial cytochrome-b gene of members of the genus passerina , it was determined that the indigo bunting and lazuli bunting are not , in fact , sister taxa .
+15  the indigo bunting is the sister of two sister groups , a blue (lazuli bunting and blue grosbeak) and a painted (rosita's bunting , orange-breasted bunting , varied bunting , and painted bunting) clade .
+16  this genetic study shows these species diverged between 4.1 and 7.3 million years ago .
+17  this timing , which is consistent with fossil evidence , coincides with a late-miocene cooling , which caused the evolution of a variety of western grassland habitats .
+18  evolving to reduce size may have allowed buntings to exploit grass seeds as a food source .
+19 the indigo bunting is 11.513 cm (4.55 in) long , with a wingspan of 2023 cm (89 in) .
+20  during the breeding season , the adult male has deep blue plumage , with a darker crown that verges on purple .
+21  the wings and tail are black with blue edges .
+22  in fall and winter plumage , the male is similar to the female , but often retains some blue feathers .
+23  the adult female is dark brown on the upperparts and lighter brown on the underparts .
+24  it has indistinct wing bars and is faintly streaked with dark underneath .
+25  the immature bird resembles the female in coloring , although a male may have hints of blue on the tail and shoulders and have darker streaks on the underside .
+26  the beak is short and conical .
+27  in the adult female , the bill is light brown tinged with blue , and in the adult male the upper half is brownish-black while the lower is light blue .
+28  the feet and legs are black or gray .
+29 the habitat of the indigo bunting is brushy forest edges , open deciduous woods , second growth woodland , and farmland .
+30  the breeding range stretches from southern canada to maine , south to northern florida and eastern texas , and westward to southern nevada .
+31  the winter range begins in southern florida and central mexico and stretches south through the west indies and central america to northern south america .
+32  it has occurred as a vagrant in antigua and barbuda , barbados , denmark , ecuador , germany , iceland , ireland , netherlands , the netherlands antilles , saint pierre and miquelon , serbia and the united kingdom .
+33 the indigo bunting communicates through vocalizations and visual cues .
+34  a sharp chip! call is used by both sexes , and is used as an alarm call if a nest or chick is threatened .
+35  a high-pitched , buzzed zeeep is used as a contact call when the indigo bunting is in flight .
+36  the song of the male bird is a high-pitched buzzed sweet-sweet chew-chew sweet-sweet , lasting two to four seconds , sung to mark his territory to other males and to attract females .
+37  each male has a single complex song , which he sings while perched on elevated objects , such as posts , wires , and bush-tops .
+38  in areas where the ranges of the lazuli bunting and the indigo bunting overlap , the males defend territories from each another .
+39  migration takes place in april and may and then again in september and october .
+40  the indigo bunting often migrates during the night , using the stars to direct itself .
+41  in captivity , since it cannot migrate , it experiences disorientation in april and may and in september and october if it cannot see the stars from its enclosure .
+42  {listen|filename=indigobunting .
+43 ogg|title=indigo bunting|format=ogg}these birds are generally monogamous but not always faithful to their partner .
+44  in the western part of their range , they often hybridize with the lazuli bunting .
+45  nesting sites are located in dense shrub or a low tree , generally 0.31 m (13 ft) above the ground , but rarely up to 9 m (30 ft) .
+46  the nest itself is constructed of leaves , coarse grasses , stems , and strips of bark , lined with soft grass or deer hair and is bound with spider web .
+47  it is constructed by the female , who cares for the eggs alone .
+48  the clutch consists of one to four eggs , but usually contains three to four .
+49  the eggs are white and usually unmarked , though some may be marked with brownish spots , averaging 18.7  13.7 mm (0.7  0.5 in) in size .
+50  the eggs are incubated for 12 to 13 days and the chicks are altricial at hatching .
+51  chicks fledge 10 to 12 days after hatching .
+52  most pairs raise two broods per year , and the male may feed newly fledged young while the females incubate the next clutch of eggs .
+53 the brown-headed cowbird may parasitize this species .
+54  indigo buntings abandon their nest if a cowbird egg appears before they lay any of their own eggs , but accept the egg after that point .
+55  pairs with parasitized nests have less reproductive success .
+56  the bunting chicks hatch , but have lower survival rates as they must compete with the cowbird chick for food .
+57 the indigo bunting forages for food on the ground or in trees or shrubs .
+58  in winter , it often feeds in flocks with other indigo buntings , but is a solitary feeder during the breeding season .
+59  during the breeding season , the species eats insects , seeds and berries , including caterpillars , grasshoppers , spiders , beetles , and grass seeds .
+60  the seeds of grasses are the mainstay of its diet during the winter , although buds , and insects are eaten when available .
+61  the young are fed mainly insects at first , to provide them with protein .
+62  the indigo bunting does not drink frequently , generally obtaining sufficient water from its diet .
+63 the species is of least concern according to the iucn , with an estimated range of 5,900,000 km (3,700,000 mi) and a population of 28,000,000 individuals .
+64  global population trends have not been quantified , but the species is not believed to approach the thresholds for a population decline warranting an upgrade in conservation status .
+65  the criteria for a change in conservation status are a decline of more than 30% in ten years or over three generations .

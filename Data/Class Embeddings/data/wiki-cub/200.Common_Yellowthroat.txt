@@ -1,0 +1,44 @@
+0 the common yellowthroat (geothlypis trichas) is a new world warbler .
+1  they are abundant breeders in north america , ranging from southern canada to central mexico .
+2 common yellowthroats are small songbirds that have olive backs , wings and tails , yellow throats and chests , and white bellies .
+3  adult males have black face masks which stretch from the sides of the neck across the eyes and forehead , which are bordered above with white or gray .
+4  females are similar in appearance , but have paler underparts and lack the black mask .
+5  immature birds are similar in appearance to the adult female .
+6  first-year males have a faint black mask which darkens completely by spring .
+7 there are 13 races of this bird .
+8  these races differ mainly in the males' facial patterns and the brightness of the yellow underparts .
+9  the southwestern forms of this bird are the brightest and the yellowest below .
+10 the breeding habitats of these birds are marshes and other wet areas with dense low vegetation , and may also be found in other areas with dense shrub .
+11  however , these birds are less common in dry areas .
+12  females appear to prefer males with larger masks .
+13  common yellowthroats nest in low areas of the vegetation , laying 35 eggs in a cup-shaped nest .
+14  both parents feed the young .
+15 northern races are nocturnal migrants , wintering in the southern parts of the breeding range , central america and the west indies .
+16  southern forms are largely resident .
+17  this species is a very rare vagrant to western europe .
+18 these birds feed on insects , which are usually captured in dense vegetation , but sometimes caught in midair .
+19 the common yellowthroat's song is a loud twichety twichety twichety twich .
+20  its call is a soft jip .
+21 despite a decline in numbers in some areas , which is due to loss of favoured habitat , this species is still very common .
+22 routes of migration vary based on the season and location of common yellowthroats .
+23  during fall migration , from august to october , common yellowthroats in canada , western , eastern , and central u .
+24 s .
+25 , and regions outside of the united states all have unique migration routes .
+26  when migrating in the fall months , all adults and immature individuals tend to arrive at their migration destinations around the same time .
+27  migration differences in timing and routes are also seen during the spring months from early february to late may in these same groups across the united states , canada , and other areas .
+28  however , males generally arrive at their destination site before the females during the spring migration months .
+29  during both fall and spring migration , many birds take time to rest during a stopover period .
+30  some individuals stay at their stopover destinations for several weeks or months while others spend only a few days resting before they continue on in their migration patterns to their final destination .
+31 one place of study on common yellowthroat migration that is unique and worth noting is appledore island , maine .
+32  common yellowthroats here typically migrate to this island during the spring months displaying distinct patterns of movement and stopover ecology .
+33  analysis of the common yellowthroat spring migration from april to june was observed by researchers from the department of biology at canisius college in buffalo , new york to determine patterns of migration and time spent resting on the island before continuing on their journey .
+34  birds returning for more than the second time arrive earlier than birds migrating to the island for their first time .
+35  every year , males tend to arrive on the island an average of five days earlier than females weighing more than the females upon arrival .
+36  one possible explanation for the early arrival of males to this island is the ability of males to set up territories before the females arrive .
+37  this could give them better access to resources and a higher likelihood of finding a female mate .
+38  however , both sexes spend about a week on the island before leaving .
+39 migration of common yellowthroats in florida has also been extensively studied .
+40  in florida , the common yellowthroat can be found more often in the southern peninsular region rather than the northern panhandle region closer to the mainland of the united states .
+41  peak migration times of the birds in this region are during the last week of september through the second week of october .
+42  not as much is known about spring migration in florida , but the patterns appear similar to that of the autumn migration .
+43 future studies are needed to understand specific migration patterns of common yellowthroats in other parts of the united states .
