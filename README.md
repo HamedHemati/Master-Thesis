@@ -11,9 +11,6 @@ The folder "Feature GAN - ZSL" contains the codes required to train and test fea
 
 1) to run test:  first set the `data_path`, `image_path` and `outputs_path` variables which are the paths to datasets, folders of datasets which contain the images and outputs path. Then you need to set the index number of the output fodler that you want to execute test on and run the shell by bash command.
 
-* the structure of folders for datasets are described in "Data" folder of this DVD.
-
-
 
 ## Data
 
